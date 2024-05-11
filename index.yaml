@@ -1,14 +1,12 @@
 apiVersion: v1
 entries:
-  webapp:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-05-11T22:21:19.384745+05:30"
+  azure-vote:
+  - apiVersion: v1
+    created: "2024-05-11T22:37:11.323051+05:30"
     description: A Helm chart for Kubernetes
-    digest: f7c9f1917e839ccf8eb95159b61d3acd31b2ae123d3f731ca7d394524f9c6ebf
-    name: webapp
-    type: application
+    digest: f713a770af7797aa99b1a79f5ef83895d23dac64aa6b8a27c2cb49d8b0201d2f
+    name: azure-vote
     urls:
-    - https://thunderpycode.github.io/MyHelmProject/webapp-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-05-11T22:21:19.384183+05:30"
+    - https://thunderpycode.github.io/MyHelmProject/azure-vote/azure-vote-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-05-11T22:37:11.3221+05:30"
