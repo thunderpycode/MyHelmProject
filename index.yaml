@@ -7,6 +7,6 @@ entries:
     digest: f713a770af7797aa99b1a79f5ef83895d23dac64aa6b8a27c2cb49d8b0201d2f
     name: azure-vote
     urls:
-    - https://thunderpycode.github.io/MyHelmProject/azure-vote/azure-vote-0.1.1.tgz
+    - https://thunderpycode.github.io/MyHelmProject/azure-vote-0.1.1.tgz
     version: 0.1.1
 generated: "2024-05-11T22:37:11.3221+05:30"
