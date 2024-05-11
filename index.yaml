@@ -9,6 +9,6 @@ entries:
     name: webapp
     type: application
     urls:
-    - webapp-0.1.0.tgz
+    - https://thunderpycode.github.io/MyHelmProject/webapp-0.1.0.tgz
     version: 0.1.0
 generated: "2024-05-11T21:42:44.737934+05:30"
