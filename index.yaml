@@ -3,12 +3,12 @@ entries:
   webapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-11T21:50:08.052727+05:30"
+    created: "2024-05-11T22:08:30.126222+05:30"
     description: A Helm chart for Kubernetes
-    digest: f7a08256156958493efce8db9ed4c45939d317c221114f05ac69e13fb6786f11
+    digest: 78222520dde3641af00ab32e44d1bb1be78c220332a864c7c33744ac1e256f62
     name: webapp
     type: application
     urls:
     - MyHelmProject/webapp-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-11T21:50:08.052109+05:30"
+generated: "2024-05-11T22:08:30.125819+05:30"
