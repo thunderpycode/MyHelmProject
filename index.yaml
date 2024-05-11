@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    created: "2024-05-11T12:00:00Z"
+    description: A Helm chart for my web application
+    digest: sha256:1234567890abcdef
+    name: mychart
+    urls:
+    - https://thunderpycode.github.io/MyHelmProject/mychart-0.1.0.tgz
+    version: 0.1.0
